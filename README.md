@@ -3,7 +3,7 @@
 Tugas Pemrograman Mobile (Aplikasi Weather Dinamis) 
 
 Nama  : FEBRI IRVAN FAIZIN<br>
-Kelas : 3<br>
+Kelas : 1<br>
 NIM   : 2015150118<br>
 
 
