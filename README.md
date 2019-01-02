@@ -9,5 +9,5 @@ NIM   : 2015150118<br>
 
 
 QR CODE 
-<br><br><img src="QR.PNG">
+<br><br><img src="QR.png">
  
